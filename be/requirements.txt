@@ -1,0 +1,6 @@
+fastapi[standard]
+SQLAlchemy
+psycopg2-binary
+python_dotenv
+psycopg2-binary
+passlib[bcrypt]
